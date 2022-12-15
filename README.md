@@ -45,6 +45,8 @@ docker compose up -d
   * The RStudio userid is 'ohdsi' and the password is 'mypass'  
 
 
+
+
 ## Shutdown Broadsea
 You can stop the running Docker containers & remove them (new container instances can be started again later) with this command:
 ```
